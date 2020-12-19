@@ -4,7 +4,7 @@ title:  "2019/04/04"
 date:   2019-04-04 00:18:21 +0800
 tags: Nothingness
 color: rgb(158,122,122)
-cover: '../assets/test.png'
+cover: '../assets/190404.png'
 subtitle: '做大阅读有感'
 ---
 情感和思想的流动
