@@ -14,11 +14,11 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 # 博主
 author: true
 name: 'Chlorite'
-NickName: 'elephant'
+NickName: '象象'
 webtitle: ''
 bio: '退堂鼓一级演奏家|微博超气人博主'
 about: true
-aboutyou: '其实我希望大家叫我象象来着，因为听起来很可爱'
+aboutyou: '愿望是永生啦，永生。'
 portraits: '/assets/profile.png' # your portraits image file path
 
 # SNS
@@ -83,4 +83,4 @@ google: false
 google-ID: ''
 
 # 博客头信息备选颜色（该部分在站点中不充当站点变量，将其写在post的头信息中用来充当页面变量）
-color: rgb(154,133,255) rgb(255,90,90) rgb(255,210,32) rgb(98,170,255)
+color: rgb(238,169,169) rgb(145,180,147) rgb(255,210,32) rgb(38,135,133)
