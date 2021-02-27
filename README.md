@@ -5,11 +5,3 @@
 并不打算用来写代码，让大家失望了！😁`简直是浪费GitHub空间`
 
 这是网址→[ChloriteBot.github.io](https://chloritebot.github.io/)
-
-
-
-# About Me
-
-18岁，女的。
-
-两财一贸CS专业大二在读。
