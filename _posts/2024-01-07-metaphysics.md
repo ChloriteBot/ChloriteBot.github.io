@@ -2,11 +2,12 @@
 layout: post
 title:  "玄学"
 subtitle: "星座 八字和MBTI"
-date:   2024-01-07 22:47:18
+date:   2024-01-07 01:13:47
 tags: Meaningless
 color: 'rgb(205,3,164)'
 cover: '/assets/240107.png'
 ---
+
 # 八字
 
 其实我不了解这些。也不太相信，没见过活的算命先生，什么周易六爻又太复杂了没空研究。某一天随便找了个网站，一看结果，不信也得信了。
