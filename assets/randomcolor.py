@@ -9,5 +9,5 @@ def rgb_to_hex(r, g, b):
     return hex_color
 
 hex_color = rgb_to_hex(r, g, b)
-print(f"RGB: R: {r}, G: {g}, B: {b}")
+print(f"rgb({r}, {g}, {b})")
 print(f"Hex: {hex_color}")
