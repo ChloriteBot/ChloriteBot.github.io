@@ -724,8 +724,8 @@ h6 {
   --theme-text-light: #000;
   --theme-text-rev: #fff;
   --theme-background: #f4f5f6;
-  --theme-bg-trans0: rgba(244,245,246,0.95);
-  --theme-bg-trans1: rgba(244,245,246,0.5);
+  --theme-bg-trans0: rgba(246, 245, 244, 0.95);
+  --theme-bg-trans1: rgba(246, 245, 244, 0.8);
   --theme-bg-hover: #fff;
   --theme-bg-light: #000;
   --theme-bg-soft: rgba(255,255,255,0.3);
